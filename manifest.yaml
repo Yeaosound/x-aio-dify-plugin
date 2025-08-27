@@ -1,0 +1,35 @@
+version: 0.0.1
+type: plugin
+author: x-aio
+name: x-aio
+label:
+  en_US: x-aio
+  ja_JP: x-aio
+  zh_Hans: x-aio
+  pt_BR: x-aio
+description:
+  en_US: X-AIO Model Integration
+  ja_JP: X-AIO Model Integration
+  zh_Hans: X-AIO 提供的模型。
+  pt_BR: X-AIO Model Integration
+icon: icon.svg
+icon_dark: icon.svg
+resource:
+  memory: 268435456
+  permission: {}
+plugins:
+  models:
+    - provider/x-aio.yaml
+meta:
+  version: 0.0.1
+  arch:
+    - amd64
+    - arm64
+  runner:
+    language: python
+    version: "3.12"
+    entrypoint: main
+  minimum_dify_version: null
+created_at: 2025-08-27T07:10:59.693087881Z
+privacy: PRIVACY.md
+verified: false
