@@ -14,7 +14,7 @@ help:
     en_US: "Get your API Key from x-aio"
     zh_Hans: "从 XAio 获取 API Key"
   url:
-    en_US: "https://dashboard.x-aio.com/zh/home/API"
+    en_US: "https://dashboard.x-aio.com/en/home/API"
 configurate_methods:
   - predefined-model
   - customizable-model
