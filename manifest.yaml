@@ -1,6 +1,6 @@
 version: 0.0.1
 type: plugin
-author: yeaosound
+author: Yeaosound
 name: x-aio
 label:
   en_US: x-aio
@@ -8,10 +8,10 @@ label:
   zh_Hans: x-aio
   pt_BR: x-aio
 description:
-  en_US: X-AIO Model Integration
-  ja_JP: X-AIO Model Integration
+  en_US: X-AIO Model Integration.
+  ja_JP: X-AIO提供のモデルです。
   zh_Hans: X-AIO 提供的模型。
-  pt_BR: X-AIO Model Integration
+  pt_BR: Modelo fornecido pela X-AIO.
 icon: icon.svg
 icon_dark: icon.svg
 resource:
